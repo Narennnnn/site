@@ -760,14 +760,7 @@ html {
 }
 
 .project-content {
-    display: flex;
-    align-items: flex-start;
-}
-
-.project-content::before {
-    content: "•";
-    margin-right: var(--spacing-xs);
-    opacity: 0.7;
+    display: inline;
 }
 
 /* Back to Top Button */
