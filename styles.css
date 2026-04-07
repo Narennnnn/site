@@ -39,7 +39,7 @@ ul.work-list {
     font-size: 0.98em;
 }
 :root {
-    --bg-color: #FEF3E2;
+    --bg-color: #F5F0E8;
     --text-color: #121212;
     --link-color: #000;
     --link-hover-color: #3F7D58;
@@ -47,7 +47,7 @@ ul.work-list {
     --secondary-color: #f3f4f6;
     --border-color: rgba(0, 0, 0, 0.1);
     --modal-bg: rgba(0, 0, 0, 0.7);
-    --modal-content-bg: #FEF3E2;
+    --modal-content-bg: #F5F0E8;
     --spacing-xs: 0.5rem;
     --spacing-sm: 1rem;
     --spacing-md: 2rem;
